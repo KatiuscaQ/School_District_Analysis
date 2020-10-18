@@ -33,6 +33,7 @@ _Top five schools without ninth graders from Thomas High School:_
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 By removing the scores of the ninth graders from Thomas High School no grades from those students is taking into consideration. The tables below show “nan” as a result of that:
+
 *Math Scores*
 
 ![](https://github.com/KatiuscaQ/School_District_Analysis/blob/main/Resources/math_scores_2.PNG)
@@ -43,7 +44,8 @@ By removing the scores of the ninth graders from Thomas High School no grades fr
 
 #### Scores by school spending
 Both results are identical, since the student count was not affected in the school summary Thomas High School is still in the $630-644 budget group.
-_Scores by school spending with all the students:_
+
+*Scores by school spending with all the students:*
 ![](https://github.com/KatiuscaQ/School_District_Analysis/blob/main/Resources/spending_by_student1.PNG)
 
 _Scores by school spending without the ninth graders from Thomas High School:_
