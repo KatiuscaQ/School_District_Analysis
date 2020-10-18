@@ -33,11 +33,12 @@ _Top five schools without ninth graders from Thomas High School:_
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 By removing the scores of the ninth graders from Thomas High School no grades from those students is taking into consideration. The tables below show “nan” as a result of that:
+*Math Scores*
 
-_Math Scores_
 ![](https://github.com/KatiuscaQ/School_District_Analysis/blob/main/Resources/math_scores_2.PNG)
 
-_Reading Scores_
+*Reading Scores*
+
 ![](https://github.com/KatiuscaQ/School_District_Analysis/blob/main/Resources/redaing_scores_2.PNG)
 
 #### Scores by school spending
